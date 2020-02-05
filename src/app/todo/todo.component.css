@@ -1,0 +1,11 @@
+ .image{
+     background-position-x: center;
+     background-position-y: center;
+     background-position: fixed;
+     background-size: 50em;
+    height:50em; width:50em ;
+    max-resolution: left 25px;
+    margin-right: auto;
+    background-image:url('./shared/18c6b655b3d09d794e0d931491e86fca.jpg');
+    
+  }
